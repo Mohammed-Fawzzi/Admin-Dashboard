@@ -29,5 +29,5 @@ AdminPanelX: is a dynamic admin dashboard designed to efficiently manage data an
 
 ## Live Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://mohammed-fawzzi.github.io/Admin-Dashboard/).
 
